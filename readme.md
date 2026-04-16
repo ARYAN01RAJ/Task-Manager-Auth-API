@@ -77,7 +77,7 @@ project-root/
 
 ## Setup Instructions
 
-### 🔹 1. Clone Repository
+### 1. Clone Repository
 
 ```
 git clone <your-repo-link>
